@@ -1,4 +1,6 @@
 ---
- 布局：幻灯片
-标题：“欢迎使用第二张幻灯片！” 
---- 您的文字使用向左箭头返回！
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
